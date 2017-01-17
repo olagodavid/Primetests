@@ -13,4 +13,10 @@ for factor in range (2, number):
 
 # forloop to check if prime number is real.
 
+if is_prime = True:
+	print "%d is a prime number!"
+else:
+	print "%d is NOT a prime number!"
+
+
 
