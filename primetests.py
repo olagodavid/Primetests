@@ -7,7 +7,7 @@ Test requirements for a function that generates prime numbers:
  3. Prime numbers should be greater than 1.
  4. If input number is less than or equal to 1, it is not prime.
  5. A user should be able to change values (upper and lower) for different results.
- 6.
+ 6. 
  7.
  8.
  9.
