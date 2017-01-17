@@ -10,6 +10,8 @@ for factor in range (2, number):
 #to disprove if number is prime;
 	if number % factor == 0:
 		is_prime = False
+#for efficiency because we know a number is not  prime
+		break
 
 # forloop to check if prime number is real.
 
